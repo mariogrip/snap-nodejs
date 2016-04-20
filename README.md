@@ -5,7 +5,7 @@ Read metadata from ubuntu snap (2.0) files
 
 ```
 sudo apt update && sudo apt install squashfs-tools
-npm install https://github.com/mariogrip/snap-nodejs.git
+npm install snap-nodejs
 ```
 
 ## Usage
