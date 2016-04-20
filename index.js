@@ -1,4 +1,4 @@
-var squashfs = require("../squashfs-nodejs");
+var squashfs = require("squashfs-nodejs");
 var tmp = require("tmp");
 var yaml = require('js-yaml');
 var rimraf = require("rimraf");

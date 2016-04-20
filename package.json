@@ -11,6 +11,15 @@
   "dependencies": {
     "js-yaml": "^3.6.0",
     "rimraf": "^2.5.2",
-    "tmp": "0.0.28"
-  }
+    "tmp": "0.0.28",
+    "squashfs-nodejs": "git+https://github.com/mariogrip/squashfs-nodejs.git"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mariogrip/snap-nodejs.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mariogrip/snap-nodejs/issues"
+  },
+  "homepage": "https://github.com/mariogrip/snap-nodejs#readme"
 }
