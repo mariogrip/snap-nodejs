@@ -1,0 +1,16 @@
+{
+  "name": "snap-nodejs",
+  "version": "1.0.0",
+  "description": "read ubuntu snap files",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Marius Gripsgard <mariogrip@ubuntu.com> (http://mariogrip.com)",
+  "license": "ISC",
+  "dependencies": {
+    "js-yaml": "^3.6.0",
+    "rimraf": "^2.5.2",
+    "tmp": "0.0.28"
+  }
+}
