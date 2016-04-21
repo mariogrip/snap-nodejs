@@ -1,6 +1,6 @@
 {
   "name": "snap-nodejs",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "read ubuntu snap files",
   "main": "index.js",
   "scripts": {
