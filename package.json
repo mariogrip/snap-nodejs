@@ -11,7 +11,7 @@
   "dependencies": {
     "js-yaml": "^3.6.0",
     "rimraf": "^2.5.2",
-    "squashfs-nodejs": "^1.0.3",
+    "squashfs-nodejs": "^1.0.4",
     "tmp": "0.0.28"
   },
   "repository": {
