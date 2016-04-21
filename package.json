@@ -1,6 +1,6 @@
 {
   "name": "snap-nodejs",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "read ubuntu snap files",
   "main": "index.js",
   "scripts": {
@@ -11,7 +11,7 @@
   "dependencies": {
     "js-yaml": "^3.6.0",
     "rimraf": "^2.5.2",
-    "squashfs-nodejs": "^1.0.4",
+    "squashfs-nodejs": "^1.0.5",
     "tmp": "0.0.28"
   },
   "repository": {
